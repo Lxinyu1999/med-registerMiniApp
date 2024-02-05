@@ -3,16 +3,16 @@
 [![GitHub package version](https://img.shields.io/github/package-json/v/Lxinyu1999/Ashiton.github.io.svg)](https://github.com/Lxinyu1999/Ashiton.github.io)
 ![images](https://img.shields.io/badge/name-lxy-green)
 
-This project is a UniApp-based Hospital Registration Mini-Program, designed to streamline the process of making medical appointments. The application simplifies patient access to hospital services, enabling appointment bookings across WeChat Mini Programs and web browsers.
+This project is a UniApp-based Hospital Registration Mini-Program, designed to streamline the process of making medical appointments. The application simplifies patient access to hospital services, enabling appointment bookings across WeChat Mini Programs.
 
 ## Implementation
 
 - UniApp: Cross-platform development framework for building applications on multiple platforms with a single codebase.
 - Vue.js
-- TypeScript: Adds static type definitions to JavaScript, enhancing code quality and maintainability.
+- TypeScript
 - Pinia: The state management library for Vue 3, offering a more flexible and lightweight approach than Vuex.
-- Vite: Next-generation frontend build tool that significantly improves the development experience.
-- Git & GitHub: Source code management.
+- Vite: Next-generation frontend build tool.
+- Git & GitHub
 
 ## Highlights
 
@@ -60,8 +60,7 @@ npm run dev:mp-weixin
 
 ### 🧑‍💻Login & Mypage
 
-<img src="readme-img/login.png" alt="homepage" width="200"/>
-<img src="readme-img/mypage.png" alt="homepage" width="200"/>
+<img src="readme-img/login.png" alt="homepage" width="200"/><img src="readme-img/mypage.png" alt="homepage" width="200"/>
 
 ## 🙏Acknowledgement
 
