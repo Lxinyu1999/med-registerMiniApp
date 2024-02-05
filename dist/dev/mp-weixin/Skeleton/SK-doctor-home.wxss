@@ -1,0 +1,41 @@
+
+.sk-home-top.data-v-201d2bf1{
+  display: flex;
+  align-items: center;
+  margin: 20rpx;
+}
+.sk-home-img.data-v-201d2bf1{
+  height: 115rpx;
+  width: 115rpx;
+}
+.sk-hone-name.data-v-201d2bf1{
+  display: flex;
+  flex-direction: column;
+  margin-left: 20rpx;
+}
+.sk-hone-name text.data-v-201d2bf1{
+  margin: 10rpx 0;
+}
+.sk-hone-name text.data-v-201d2bf1:nth-child(1){
+  height: 50rpx;
+  width: 300rpx;
+}
+.sk-hone-name text.data-v-201d2bf1:nth-child(2){
+  height: 50rpx;
+  width: 500rpx;
+}
+.sk-home-title.data-v-201d2bf1{
+  height: 60rpx;
+  margin: 20rpx;
+}
+.sk-home-time.data-v-201d2bf1{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+	margin: 10rpx 0;
+}
+.sk-home-time text.data-v-201d2bf1{
+  width: calc(20% - 20rpx*2);
+	margin: 20rpx;
+  height: 100rpx;
+}

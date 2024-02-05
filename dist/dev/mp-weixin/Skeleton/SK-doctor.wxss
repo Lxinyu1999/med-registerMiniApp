@@ -1,0 +1,36 @@
+
+.sk-doctor-top.data-v-1b0c1dab{
+  display: flex;
+  justify-content: space-between;
+}
+.sk-doctor-top text.data-v-1b0c1dab{
+  width: 20%;
+  height: 100rpx;
+  margin: 20rpx;
+}
+.sk-doctor-list.data-v-1b0c1dab{
+  display: flex;
+  align-items: center;
+  margin: 20rpx;
+}
+.sk-doctor-list view.data-v-1b0c1dab:nth-child(1){
+  width: 90rpx;
+  height: 90rpx;
+  border-radius: 50rpx !important;
+}
+.sk-doctor-text.data-v-1b0c1dab{
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  margin-left: 30rpx;
+}
+.sk-doctor-text text.data-v-1b0c1dab{
+  height: 50rpx;
+  margin: 10rpx 0;
+}
+.sk-doctor-text text.data-v-1b0c1dab:nth-child(1){
+  width: 200rpx;
+}
+.sk-doctor-text text.data-v-1b0c1dab:nth-child(2){
+  width: 300rpx;
+}

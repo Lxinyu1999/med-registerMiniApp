@@ -1,0 +1,16 @@
+
+.sk-result-title.data-v-a3d9d77a{
+  margin: 20rpx;
+  height: 60rpx;
+  width: 200rpx;
+}
+.sk-result-label.data-v-a3d9d77a{
+  margin: 20rpx;
+  height: 60rpx;
+}
+.sk-result-du.data-v-a3d9d77a{
+  margin: 20rpx;
+  height: 80rpx;
+  width: 300rpx;
+}
+

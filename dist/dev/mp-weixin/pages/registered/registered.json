@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "预约挂号",
+  "usingComponents": {
+    "sk-index": "../../Skeleton/SK-registered"
+  }
+}

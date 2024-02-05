@@ -1,0 +1,17 @@
+
+.sk-regist-view.data-v-7546678e{
+  display: flex;
+  justify-content: space-between;
+}
+.sk-regist-view view.data-v-7546678e:nth-child(1){
+  width: 35%;
+}
+.sk-regist-view view.data-v-7546678e:nth-child(2){
+  width: 65%;
+}
+.sk-regist-view text.data-v-7546678e{
+  display: block;
+  height: 70rpx;
+  margin: 20rpx;
+}
+

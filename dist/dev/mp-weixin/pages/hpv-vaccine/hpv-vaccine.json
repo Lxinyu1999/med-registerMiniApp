@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "宫颈癌疫苗在线预约",
+  "usingComponents": {
+    "sk-index": "../../Skeleton/SK-hpvlist"
+  }
+}

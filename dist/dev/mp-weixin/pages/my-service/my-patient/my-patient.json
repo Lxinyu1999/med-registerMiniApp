@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "我的就诊人",
+  "navigationBarBackgroundColor": "#ffffff",
+  "usingComponents": {
+    "ponit": "../../../com-components/point"
+  }
+}

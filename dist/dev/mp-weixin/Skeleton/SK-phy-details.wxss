@@ -1,0 +1,37 @@
+
+.sk-det-top.data-v-7b7af6cc{
+  height: 400rpx;
+  margin: 20rpx;
+}
+.sk-det-price.data-v-7b7af6cc{
+  display: flex;
+  justify-content: space-between;
+}
+.sk-det-price text.data-v-7b7af6cc{
+  height: 50rpx;
+  margin: 20rpx;
+}
+.sk-det-price text.data-v-7b7af6cc:nth-child(1){
+  width: 60%;
+}
+.sk-det-price text.data-v-7b7af6cc:nth-child(2){
+  width: 40%;
+}
+.sk-det-time.data-v-7b7af6cc{
+  display: flex;
+  justify-content: space-between;
+}
+.sk-det-time text.data-v-7b7af6cc{
+  width: 25%;
+  margin: 20rpx;
+  height: 100rpx;
+}
+.sk-det-label.data-v-7b7af6cc{
+  display: flex;
+  justify-content: space-between;
+}
+.sk-det-label text.data-v-7b7af6cc{
+  width: 33%;
+  margin: 20rpx;
+  height: 100rpx;
+}

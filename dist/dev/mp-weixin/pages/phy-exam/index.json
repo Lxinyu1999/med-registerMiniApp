@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "体检预约",
+  "navigationBarBackgroundColor": "#ffffff",
+  "usingComponents": {
+    "sk-index": "../../Skeleton/SK-phy-exam"
+  }
+}

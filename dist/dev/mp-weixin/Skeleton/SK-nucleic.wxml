@@ -1,0 +1,1 @@
+<view class="skeleton-view data-v-74860df3"><view class="skeleton-global sk-nucleic-top data-v-74860df3"></view><view class="skeleton-global sk-nucleic-address data-v-74860df3"></view><view wx:for="{{a}}" wx:for-item="item" wx:key="a" class="skeleton-global sk-nucleic-input data-v-74860df3"></view><view class="skeleton-global sk-nucleic-time data-v-74860df3"></view></view>

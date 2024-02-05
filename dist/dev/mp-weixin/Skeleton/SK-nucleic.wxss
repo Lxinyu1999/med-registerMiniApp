@@ -1,0 +1,16 @@
+
+.sk-nucleic-top.data-v-74860df3{
+  height: 250rpx;
+}
+.sk-nucleic-address.data-v-74860df3{
+  height: 200rpx;
+  margin: 20rpx;
+}
+.sk-nucleic-input.data-v-74860df3{
+  height: 150rpx;
+  margin: 20rpx;
+}
+.sk-nucleic-time.data-v-74860df3{
+  height: 250rpx;
+  margin: 20rpx;
+}

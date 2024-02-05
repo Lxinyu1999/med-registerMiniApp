@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "挂号记录",
+  "navigationBarBackgroundColor": "#ffffff",
+  "usingComponents": {
+    "point": "../../../com-components/point"
+  }
+}

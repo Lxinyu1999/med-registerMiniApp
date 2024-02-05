@@ -1,0 +1,1 @@
+<view class="skeleton-view data-v-7546678e"><view class="sk-regist-view data-v-7546678e"><view class="data-v-7546678e"><text wx:for="{{a}}" wx:for-item="item" wx:key="a" class="skeleton-global data-v-7546678e"></text></view><view class="data-v-7546678e"><text wx:for="{{b}}" wx:for-item="item" wx:key="a" class="skeleton-global data-v-7546678e"></text></view></view></view>

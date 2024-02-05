@@ -1,0 +1,19 @@
+
+.sk-hpv-top.data-v-1867d7b0{
+  margin: 20rpx;
+  height: 300rpx;
+}
+.sk-hpv-nav.data-v-1867d7b0{
+  display: flex;
+  justify-content: space-between;
+}
+.sk-hpv-nav text.data-v-1867d7b0{
+  width: 25%;
+  height: 70rpx;
+  margin: 20rpx;
+}
+.sk-hpv-list text.data-v-1867d7b0{
+  height: 200rpx;
+  margin: 20rpx;
+  display: block;
+}

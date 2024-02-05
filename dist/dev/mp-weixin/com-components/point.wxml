@@ -1,0 +1,1 @@
+<view wx:if="{{a}}" class="point data-v-c314bc08"><image class="data-v-c314bc08" src="/static/other/kongshuju.jpg" mode="widthFix"></image><text class="data-v-c314bc08">{{b}}</text></view>

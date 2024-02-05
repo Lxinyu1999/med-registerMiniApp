@@ -1,0 +1,28 @@
+
+.sk-self-top.data-v-02042197{
+  display: flex;
+  justify-content: space-between;
+  margin: 20rpx;
+}
+.sk-self-top text.data-v-02042197{
+  height: 60rpx;
+  width: 100rpx;
+}
+.sk-self-top text.data-v-02042197:nth-child(2){
+  flex: 2;
+  margin: 0 20rpx;
+}
+.sk-self-title.data-v-02042197{
+  height: 60rpx;
+  width: 250rpx;
+  display: block;
+  margin: 120rpx 0 10rpx 20rpx;
+}
+.sk-self-flex.data-v-02042197{
+  display: flex;
+  flex-direction: column;
+}
+.sk-self-flex text.data-v-02042197{
+  height: 110rpx;
+  margin: 20rpx;
+}

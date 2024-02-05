@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "体检详情",
+  "usingComponents": {
+    "semen-mber": "../../com-components/se-member",
+    "sk-index": "../../Skeleton/SK-phy-details"
+  }
+}

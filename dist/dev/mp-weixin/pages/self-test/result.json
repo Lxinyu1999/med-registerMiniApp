@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "测评结果",
+  "navigationBarBackgroundColor": "#d6e8ff",
+  "usingComponents": {
+    "sk-index": "../../Skeleton/SK-self-test-result"
+  }
+}
