@@ -60,7 +60,7 @@ npm run dev:mp-weixin
 
 ### 🧑‍💻Login & Mypage
 
-<img src="readme-img/login.png" alt="homepage" width="200"/><img src="readme-img/mypage.png" alt="homepage" width="200"/>
+<img src="readme-img/login.png" alt="homepage" width="200"/> <img src="readme-img/mypage.png" alt="homepage" width="200"/>
 
 ## 🙏Acknowledgement
 
